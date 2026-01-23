@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ces travaux, merci de les citer comme suit."
+authors:
+  - family-names: "Ouellette"
+    given-names: "Bryan"
+    affiliation: "Lichen-Collectives"
+title: "LSP-1: Architecture Lichen-Soliton-Proton pour une IA Topologique"
+version: 1.0.0
+date-released: 2026-01-23
+url: "https://github.com/Lichen-Collectives/LSP-1-Topological-AI"
+contact:
+  - email: "lmc.theory@gmail.com"
+abstract: >
+  Ce projet définit une nouvelle classe d'informatique memcomputing basée sur la convergence de la physique des solitons, de la frustration géométrique et de la théorie de l'information intégrée.
